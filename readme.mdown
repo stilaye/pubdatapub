@@ -1,0 +1,4 @@
+# Blazing Public data 
+This project will scrape availible international economic data from multiple sources for quick visualization and transformation. I have never heard of Google public data and I am totally not just rebuilding it with the flask framework.
+
+I keed I keed. For real though g pub data is a place to upload data for simple visualisations, this place gets the data for you first. fun times. much econ. wow.s

@@ -1,0 +1,151 @@
+Origional thread, 2015
+###################################################
+Rodrigo Aramburu		Oct 6
+Hey Vincent, Good talking today, really appreciated the offer you made. I've ...
+
+Vincent Buscarello		Oct 10
+That sounds great, I am happy to review and sign something if needed. I am re...
+
+Patricia Wiharto <patricia@blazingdb.com>
+Oct 11
+
+to me, Rodrigo 
+Hi Vincent,
+
+Rodrigo mentioned about you, and I am looking forward to work with you!
+My background was in biotechnology and bioinformatics, so I am an aspiring data scientist myself.  
+Rodrigo mentioned that you will be helping us with the open data initiative. 
+
+Don't worry about the skills, you can always learn those. The desire to learn is what is important, and it seems like you're ready to go! :) We can always help each other out after that.
+
+As for the things that you can look into, maybe web scraping in python would be beneficial to get you started on. 
+
+Let  me know if you have any other questions.
+
+
+Vincent Buscarello <vince.buscarello@gmail.com>
+Oct 17
+
+to Patricia, Rodrigo 
+Nice to meet you Patricia,
+
+I m super grateful and humbled you want to work with me. My only next question would be what specifically to do next! 
+
+Do you have a need for a plain text scraper? Or is there other specific data or data frameworks you are interested in capturing? Should we get a github/waffle started? Perhaps there is a github repo I could clone and start looking at?
+
+Thanks again! I understand you are both busy, so I will be as independent as possible. 
+
+Vince B
+720-427-9930
+
+
+Patricia Wiharto <patricia@blazingdb.com>
+Oct 19 (12 days ago)
+
+to me, Rodrigo 
+Nice meeting you too Vincent.
+
+So, I think we will mostly scrape websites. We already did SEC data. But, we're not sure what other data we want to scrape next.
+I will talk to Rodrigo about this and get back to you...unless Rodrigo already has one in mind?
+As for Github, I have my personal GIthub, but not sure if Blazing wants to have its own account or if it's necessary. Need to discuss with Rodrigo and Felipe about it.
+I will update you.
+
+Patricia
+
+
+Rodrigo Aramburu <rodrigo@blazingdb.com>
+Oct 19 (12 days ago)
+
+to Patricia, me 
+Thanks for taking the lead on this Patricia.
+
+I'm reaching out to legal to find out how we can make this all work and not expose ourselves to any risk.
+
+I think there is a good opportunity using Nasa climate data. Another idea is World Bank since it could go in hand with economic analysis on top of SEC.
+
+Not sure which is best yet.
+
+Cheers, 
+Rodrigo
+
+
+
+Vincent Buscarello <vince.buscarello@gmail.com>
+Oct 24 (7 days ago)
+
+to Rodrigo, Patricia 
+I have worked with World Bank data, as well MIT's trade repository data, so how about I work on something like this-
+
+A small python script (perhaps even a web app) that quickly scans both data bases and returns cleaned and transformed data sets. We could start with something simple like "take a country's vitals" which returns GDP and main exports, or a "company vitals" that combines several data sources to return revenue/stock price/ etc. The idea of taking a "pulse" of data quick I think combines well with blazing's brand, and we could even make the tool that shoots you updates when you click a chrome extension or something.
+
+Would that be useful/something Blazing could use as a project and provide feedback on? I know it would be fantastic experience for myself!
+
+As for climate data, we could do something similar.
+
+I will ink around with that today, but would love to hear your feedback before I make it my primary coding project. Let me know if you were looking for that or something different. Super excited!
+
+Vincent Buscarello
+720-427-9930
+
+
+Vincent Buscarello <vince.buscarello@gmail.com>
+Oct 29 (2 days ago)
+
+to Rodrigo, Patricia 
+Hello Rodrigo and Patricia, I'd love to get started on this this weekend, but before I do let me know if it's something that would help blazing. If so I will get a good have going and shoot you the link! I know you're both busy one of you can text me with the okay if that's easier 720-427-9930. I hope all is well!
+
+
+
+Rodrigo Aramburu
+Oct 29 (2 days ago)
+
+to me, Patricia 
+Hey Vincent,
+
+Let's do a call tomorrow, we can figure out. Let me know if you are available at 10AM CST.
+
+Cheers,
+Rodrigo
+ᐧ
+
+
+Vincent Buscarello <vince.buscarello@gmail.com>
+Oct 29 (2 days ago)
+
+to Rodrigo, Patricia 
+I am! I start work 11am cst tomorrow, as I am covering a late shift. Let's talk then.
+
+
+
+Rodrigo Aramburu
+Oct 30 (1 day ago)
+
+to me, Patricia 
+Hey Patricia,
+
+I spoke with Vincent, he's going to work on the World Bank data, and we'll ultimately accredit him as the generator of that data set.
+
+In the meantime if he has questions or gets stuck on his script please try to be helpful. If anything gets too complicated you can always send it to me and I'll try to help as well.
+
+Cheers!
+Rodrigo
+ᐧ
+
+
+Patricia Wiharto
+Oct 30 (1 day ago)
+
+to Rodrigo, me 
+Ok, no problem. 
+Let me know if you need any help Vincent.
+Have fun!
+
+Patricia
+
+
+Vincent Buscarello <vince.buscarello@gmail.com>
+Oct 30 (1 day ago)
+
+to Patricia, Rodrigo 
+Oh I will and I will! Can't wait to start this little adventure!
+
