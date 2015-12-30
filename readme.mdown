@@ -1,4 +1,11 @@
-# Blazing Public data 
+#Public data pub
+##a project of Blazing db
+##I have been an amateur dev for about 4 months, so go easy on me :)
 This project will scrape availible international economic data from multiple sources for quick visualization and transformation. I have never heard of Google public data and I am totally not just rebuilding it with the flask framework.
 
-I keed I keed. For real though g pub data is a place to upload data for simple visualisations, this place gets the data for you first. fun times. much econ. wow.s
+I keed I keed. For real though googlle pub data is a place to upload data for simple visualisations on single sources
+this place gets the data for you first and smoothly combines hetrogenous sources. I would like this to eventually be a platform from which live modeling and research can be done on pubic data.
+
+be sure to check out blazing db at http://blazingdb.com/. they are doing this for social good more than marketing, but I thought Id give em a shoutout here :)
+
+fun times. much econ. wow.
