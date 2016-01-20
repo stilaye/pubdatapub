@@ -6,6 +6,22 @@ This project will scrape availible international economic data from multiple sou
 I keed I keed. For real though googlle pub data is a place to upload data for simple visualisations on single sources
 this place gets the data for you first and smoothly combines hetrogenous sources. I would like this to eventually be a platform from which live modeling and research can be done on pubic data.
 
+####What can you do yo help?
+
+Right now, the python scripts are in the bin folder, and they only really work for the UN and World Bank APIs.
+#######info on WB api
+http://data.worldbank.org/querybuilder
+#######info on UN api
+http://data.unhcr.org/wiki/index.php/API_Documentation
+
+Next we will be adding sources! Send pushes with seperate sctips that return json from whichever soure interests you. Ideally, do this *after* running the current scripts and try to get the data to return in the same structure/format.
+
+Below are links
+
+http://www.opendatanetwork.com/
+
+http://atlas.media.mit.edu/api/#data
+
 be sure to check out blazing db at http://blazingdb.com/. they are doing this for social good more than marketing, but I thought Id give em a shoutout here :)
 
 fun times. much econ. wow.
