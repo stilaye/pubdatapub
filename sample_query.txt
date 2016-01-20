@@ -1,4 +1,0 @@
-Brazil,Ecuador,Peru
-2000,2005,2010,2011,2012,2013
-Internet users,IHDI: Inequality-adjusted income index,Middle Class ($10-50 a day) Headcount,Poverty Headcount ($1.25 a day),Poverty Headcount ($2.50 a day)
-C:\Users\Vince\Desktop
